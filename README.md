@@ -1,2 +1,2 @@
 # journey
-My personal journey through the world of Rust
+My journey through the world of Rust
